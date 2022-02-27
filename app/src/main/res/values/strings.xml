@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ShoppingCart</string>
+    <string name="title_activity_main">Category</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="runtime_permissions_txt">Please enable ALL permissions from app settings.</string>
+
+    <!-- todo dashboard tutoral string -->
+    <string name="tap_intro_dashboard_navigation">Navigation drawer</string>
+    <string name="tap_intro_dashboard_navigation_desc">Tap here or swipe from left edge of the screen to open navigation drawer</string>
+
+    <string name="tap_intro_dashboard_notifaction_apply">Check Notifaction</string>
+    <string name="tap_intro_dashboard_notifaction_apply_desc">Tap here to check notification</string>
+
+
+</resources>
